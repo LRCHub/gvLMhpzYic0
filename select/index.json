@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Girls Just Want to Have Fun",
+  "base_artist": "Cyndi Lauper",
+  "createdAt": "2026-02-13T03:04:39.521586Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "STRFKR",
+      "has_synced": true,
+      "path": "select/01_Girls_Just_Want_to_Have_Fun_STRFKR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/02_Girls_Just_Want_to_Have_Fun_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Starfucker",
+      "has_synced": true,
+      "path": "select/03_Girls_Just_Want_to_Have_Fun_Starfucker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/04_Girls_Just_Want_to_Have_Fun_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Girls Just Want To Have Fun",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/05_Girls_Just_Want_To_Have_Fun_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/06_Girls_Just_Want_to_Have_Fun_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Ecco2k",
+      "has_synced": true,
+      "path": "select/07_Girls_Just_Want_to_Have_Fun_Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Girls Just Want To Have Fun",
+      "artist": "Abi84",
+      "has_synced": true,
+      "path": "select/08_Girls_Just_Want_To_Have_Fun_Abi84.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Shaggy",
+      "has_synced": false,
+      "path": "select/09_Girls_Just_Want_to_Have_Fun_Shaggy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Girls just want to have fun",
+      "artist": "Oldies",
+      "has_synced": true,
+      "path": "select/10_Girls_just_want_to_have_fun_Oldies.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/11_Girls_Just_Want_to_Have_Fun_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "シンディー・ローパー",
+      "has_synced": true,
+      "path": "select/12_Girls_Just_Want_to_Have_Fun_シンディー・ローパー.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Girls Just Want To Have Fun",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/13_Girls_Just_Want_To_Have_Fun_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Bladee & Ecco2k",
+      "has_synced": true,
+      "path": "select/14_Girls_Just_Want_to_Have_Fun_Bladee_&_Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/15_Girls_Just_Want_to_Have_Fun_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Girls Just Want To Have Fun",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/16_Girls_Just_Want_To_Have_Fun_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Girls Just Want To Have Fun",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/17_Girls_Just_Want_To_Have_Fun_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/18_Girls_Just_Want_to_Have_Fun_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Girls Just Want To Have Fun",
+      "artist": "Ecco2k & Bladee",
+      "has_synced": true,
+      "path": "select/19_Girls_Just_Want_To_Have_Fun_Ecco2k_&_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Girls Just Want To Have Fun",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/20_Girls_Just_Want_To_Have_Fun_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Girls Just Want to Have Fun",
+      "artist": "Cyndi Lauper",
+      "has_synced": false,
+      "path": "select/pl_01_Girls_Just_Want_to_Have_Fun_Cyndi_Lauper.txt"
+    }
+  ]
+}
